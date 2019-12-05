@@ -5,3 +5,5 @@ matteblack
 pink
 white
 cyan
+french violet
+Flame
