@@ -1,10 +1,2 @@
 blue
-black
-white
-purple
-pink
-matteblack
-orange
-red
 yellow
-
