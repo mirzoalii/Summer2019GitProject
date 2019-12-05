@@ -2,4 +2,8 @@ blue
 yellow
 orange
 matteblack
+<<<<<<< HEAD
 pink
+=======
+white
+>>>>>>> b3af4be2ab109a572072b4d5bc1e85f36203b84b
