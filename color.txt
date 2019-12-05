@@ -5,3 +5,4 @@ purple
 pink
 matteblack
 orange
+red
