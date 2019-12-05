@@ -4,3 +4,4 @@ white
 purple
 pink
 matteblack
+orange
