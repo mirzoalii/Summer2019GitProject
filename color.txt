@@ -4,8 +4,12 @@ orange
 matteblack
 pink
 white
+<<<<<<< Updated upstream
 cyan
 french violet
 Flame
 black&yellow
 Ikromzoda
+=======
+french violet
+>>>>>>> Stashed changes
