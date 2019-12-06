@@ -9,7 +9,5 @@ cyan
 french violet
 Flame
 black&yellow
-Ikromzoda
-=======
 french violet
->>>>>>> Stashed changes
+Mirzoali
