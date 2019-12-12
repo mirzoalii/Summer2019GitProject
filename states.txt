@@ -1,0 +1,14 @@
+DC
+PA
+TX
+FL
+MD
+CA
+NE
+GA
+NY
+MA
+VA
+NJ
+AL
+CANADA
